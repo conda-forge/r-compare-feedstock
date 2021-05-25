@@ -35,7 +35,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=compare
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Functions to compare a model object to a comparison object. If the objects are not
     identical, the functions can be instructed to explore various modifications of the
     objects (e.g., sorting rows, dropping names) to see if the modified versions are
