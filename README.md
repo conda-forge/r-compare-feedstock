@@ -1,11 +1,11 @@
-About r-compare
-===============
+About r-compare-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-compare-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=compare
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-compare-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to compare a model object to a comparison object. If the objects are not identical, the functions can be instructed to explore various modifications of the objects (e.g., sorting rows, dropping names) to see if the modified versions are identical.
 
